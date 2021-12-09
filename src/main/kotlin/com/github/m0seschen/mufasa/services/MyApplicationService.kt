@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.m0seschen.mufasa.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.m0seschen.mufasa.MyBundle
 
 class MyApplicationService {
 
